@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exemplo Callback</string>
+    <string name="erro_filme_nao_encontrado">Filme não encontrado!</string>
+    <string name="erro_carregar_filmes">Erro ao buscar um filme</string>
+    <string name="estado">Estado:</string>
+    <string name="cidade">Cidade:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="logradouro">Logradouro:</string>
+    <string name="numero_cep">01200300</string>
+    <string name="button">Button</string>
+    <string name="busca_cep">Busca CEP</string>
+    <string name="buscar">Buscar</string>
+</resources>
