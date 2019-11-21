@@ -6,8 +6,8 @@
     <string name="cidade">Cidade:</string>
     <string name="bairro">Bairro:</string>
     <string name="logradouro">Logradouro:</string>
-    <string name="numero_cep">01200300</string>
+    <string name="numero_cep">CEP</string>
     <string name="button">Button</string>
-    <string name="busca_cep">Busca CEP</string>
+    <string name="busca_endereco">Busca Endereço</string>
     <string name="buscar">Buscar</string>
 </resources>
